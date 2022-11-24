@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="no_category">No category found with your query …</string>
+    <string name="error_faild_get_data">Error while loading Data! Please try again later.</string>
+</resources>
